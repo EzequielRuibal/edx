@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Good Example</title>
+</head>
+<body>
+
+<h1>A TALE OF TWO CITIES</h1>
+
+<p>
+This is a paragraph.
+It may or may not be indented but it but there
+    should be a <q>line break</q> at the end.
+</p>
+<blockquote>
+    <hr>
+    Typically the last line will not stretch as far to the right as the rest of the lines.
+    <hr>
+</blockquote>
+<ul>
+   <li> First item in list </li>
+   <li> Second item in list </li>
+</ul>    
+<br>
+<p>
+Often there is extra space between one paragraph and the next.
+</p>
+<pre>
+    <h1>    Page Heading</h1>
+    <p>And here is the     first paragraph</p>
+</pre> 
+</body>
+</html>
